@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ![banner](./assert/banner.png)
 
-**Languages**：<img src="./assert/java.png" alt=" "  width="25px" />
+**Languages**：<img alt="微信" width="20px" src="./assert/java.png" />
 
-📫 期待你的关注！<a href="https://github.com/CVBear/CVBear/assert/wechat2.png"><img alt="微信" width="20px" src="./assert/wechat.png" /><a href="https://space.bilibili.com/287536769"><img alt="bilibili" width="20px" src="./assert/bilibili.png" /></a></a>
+📫 期待你的关注：<a href="https://github.com/CVBear/CVBear/assert/wechat2.png"><img alt="微信" width="20px" src="./assert/wechat.png" /><a href="https://github.com/CVBear/CVBear/blob/master/assert"><img alt="bilibili" width="20px" src="./assert/bilibili.png" /></a></a>
 
-⭐ 给我一个Start吧！[Easy-Programing](https://github.com/CVBear/Easy-Programing)
+⭐ 给我一个Start吧：[Easy-Programing](https://github.com/CVBear/Easy-Programing)
 
 💬 提出你所有问题：[Issues](https://github.com/CVBear/Easy-Programing/issues)
 

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **Languages**：<img alt="微信" width="20px" src="https://raw.githubusercontent.com/CVBear/CVBear/master/assert/java.png" />
 
-📫 期待你的关注：<a href="https://raw.githubusercontent.com/CVBear/CVBear/master/assert/wechat2.png"><img alt="微信" width="20px" src="https://raw.githubusercontent.com/CVBear/CVBear/master/assert/wechat.png" /><a href="https://github.com/CVBear/CVBear/blob/master/assert"><img alt="bilibili" width="20px" src="https://raw.githubusercontent.com/CVBear/CVBear/master/assert/bilibili.png" /></a></a>
+📫 期待你的关注：<a href="https://raw.githubusercontent.com/CVBear/CVBear/master/assert/wechat2.png"><img alt="微信" width="20px" src="https://raw.githubusercontent.com/CVBear/CVBear/master/assert/wechat.png" /><a href="https://space.bilibili.com/287536769"><img alt="bilibili" width="20px" src="https://raw.githubusercontent.com/CVBear/CVBear/master/assert/bilibili.png" /></a></a>
 
 ⭐ 给我一个Start吧：[Easy-Programing](https://github.com/CVBear/Easy-Programing)
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> From All CV to No CV !  我的梦想是编程没有CV，漫话编程
+> From All CV to No CV !  我的梦想是算法不用死记硬背，编程不用CV！
 
 ![banner](https://raw.githubusercontent.com/CVBear/CVBear/master/assert/banner.png)
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 🔭 持续更新的项目：[Easy-Programing](https://github.com/CVBear/Easy-Programing)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CVBear&repo=Easy-Programing)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CVBear&repo=Easy-Programing)](https://github.com/CVBear/Easy-Programing)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CVBear&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CVBear&theme=tokyonight)](https://github.com/CVBear)
 

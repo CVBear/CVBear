@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 🔭 持续更新的项目：[Easy-Programming](https://github.com/CVBear/Easy-Programming)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CVBear&repo=Easy-Programming)](https://github.com/CVBear/Easy-Programing)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CVBear&repo=Easy-Programming)](https://github.com/CVBear/Easy-Programming)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CVBear&theme=tokyonight)](https://github.com/CVBear)
 
